@@ -16,12 +16,16 @@
 <!-- ===== SOBRE MI ===== -->
 <h2>👨‍💻 Sobre mí</h2>
 <p>
-  Soy <b>desarrollador web full-stack</b>. Construyo soluciones <b>rápidas, seguras y escalables</b>: periódicos digitales, marketplaces con <b>pagos y suscripciones</b>, sitios corporativos y plataformas para <b>sector público</b> con integraciones (<b>APIs</b>, <b>Power BI</b>, <b>MySQL/SQL Server</b>).<br/>
-  También trabajo en <b>seguridad</b>: <b>hardening</b>, <b>remediación de malware</b> y <b>pentesting web</b>, para que lo que se lance quede estable y protegido.
+  Tecnólogo en <b>Análisis y Desarrollo de Sistemas de Información</b> e <b>Ingeniero de Sistemas</b>, con más de 3 años de experiencia en <b>soporte técnico Nivel I y II</b>, administración de <b>servidores Linux junior</b> y <b>desarrollo web</b>.
 </p>
 <p>
-  Me interesan los proyectos con impacto real, donde se combinan <b>diseño, performance y seguridad</b>. Si necesitas alguien que entienda el <b>negocio</b> y ejecute lo <b>técnico</b>, hablemos.
+  Con conocimientos en <b>remediación de malware</b>, gestión de tickets en sistemas de mesa de ayuda (<b>osTicket</b>, <b>Tawk.to</b>) y configuración inicial de <b>equipos Cisco</b>. 
+  Además, con formación en <b>seguridad informática</b> y <b>auditorías de hacking ético</b>.
 </p>
+<p>
+  Profesional orientado a resultados, con enfoque en la <b>satisfacción del cliente</b> y la <b>mejora continua de procesos de soporte</b>.
+</p>
+
 
 <hr/>
 
